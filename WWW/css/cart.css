@@ -1,0 +1,28 @@
+.header_mid {
+    width: 1200px;
+    height: 132px;
+    position: relative;
+    z-index: 2;
+    margin: 0 auto;
+}
+.progressbar {
+    width: 450px;
+    height: 36px;
+    float: right;
+    margin-right: -30px;
+    margin-top: 48px;
+    position: relative;
+}
+.wrapMain {
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    padding: 10px 0;
+    overflow: hidden;
+}
+.footer1{
+	position:static!important;
+	}
+.header{
+	background: #eee!important;
+}

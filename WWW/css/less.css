@@ -1,0 +1,15 @@
+@media screen and (max-width: 1200px){
+
+    #box{
+        display: none !important;
+    }
+
+}
+@media screen and (max-width: 680px){
+
+    #box{
+        display: none !important;
+    }
+
+}
+

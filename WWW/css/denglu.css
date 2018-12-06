@@ -1,0 +1,90 @@
+#container{width:1200px;height:538px;border:1px solid #333;overflow:hidden;position:relative;margin:0 auto;border:0}
+#list{height:470px;z-index:1}
+#list img{float:left;width:1200px;height:538px}
+#list img:hover{opacity:.8}#list a{display:block}
+#buttons{position:absolute;height:10px;width:120px;z-index:2;bottom:20px;left:570px}
+#buttons span{cursor:pointer;float:left;border:1px solid #fff;width:10px;height:10px;border-radius:50%;background:#fefefe;margin-right:5px}
+#buttons .on{background:orangered}
+.arrow{cursor:pointer;display:none;line-height:0;width:0;height:0;position:absolute;z-index:2;top:0;background-color:RGBA(0,0,0,.3);color:none}
+#container:hover .arrow{display:none}
+#prev{left:0}#next{right:0}
+.dengl{position:absolute;/*float:right;*/right: 0;top:0;margin-right:73px;margin-top:51px;width:350px;height:410px;background-color:#fefefe;z-index:99}
+.dengl span{display:block}
+
+.mmdl {
+    width: 87px;
+    height: 30px;
+    margin-left: 25px;
+    margin-top: 45px!important;
+    line-height: 30px;
+    float: left;
+    color: #433a37;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.thetop-poptit .loginclose {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    color: #000;
+    font: bold 16px/14px simsun;
+    text-shadow: 0 1px 0 #ddd;
+    z-index: 100;
+}
+.madmname{
+    display: block!important;
+    float: left!important;
+    width: 249px!important;
+    height: 42px!important;
+    font-size: 12px!important;
+    line-height: 42px!important;
+    border: 0!important;
+    padding-left: 5px!important;
+}
+.madmmm {
+    display: block!important;
+    float: left!important;
+    width: 248px!important;
+   padding: 0!important;
+   margin: 0!important;
+   height:42px!important;
+    line-height: 42px!important;
+    font-size: 12px!important;
+    border: 0!important;
+    padding-left: 5px!important;
+}
+
+.mmlist1{
+	line-height: 0!important;
+}
+
+.mmdl2{width:150px!important;height:75px!important;font-size:12px;color:#646464;margin-top:18px;line-height:25px;;margin-right:23px;text-align:center;
+    float: right;}
+.mmdl2 img{text-align:center!important;
+    width:150px!important;
+    height:75px!important;}
+.mmdl2 a{display:block;line-height:20px;color:#f08709;float:left;line-height:20px;margin-left:3px;letter-spacing:2px}
+.mmdl2 a:hover{color:#c70019}
+.mmlist1{width:298px;height:43px;border:1px solid #9b9b9b;float:left;margin-left:25px;margin-top:28px}
+.mmlist1 span{float:left}
+.mmlist2 span{float:left}
+name{width:43px;height:43px}
+.mmname img{background-size:100% 100%}
+.mmadm{width:43px;height:43px}
+.mmadm img{background-size:100% 100%;width:43px;height:43px;display:block}
+.madmname{display:block;float:left;width:249px;height:42px;font-size:12px;line-height:42px;border:0;padding-left:5px}
+.madmmm{display:block;float:left;width:248px;height:42px;line-height:42px;font-size:12px;border:0;padding-left:5px}
+.mmlist2{width:249px;height:43px;line-height:43px;background-size:100% 100%;margin-left:25px;margin-top:20px;border-radius:2%;box-shadow:inset 0 1px 0 #f8f8f8;float:left}
+.mmlist2 input{display:block;width:302px;background:url(../images/dlbg.png) no-repeat;text-align:center;line-height:43px;font-size:16px;color:#fffaf9;cursor:pointer;font-weight:bold}
+.mmlist2 a:hover{opacity:.7}
+.mmbottom{margin-top:30px;margin-left:25px;width:302px;height:33px;float:left}
+.mmbottom a{display:block;float:left;width:25px;height:23px;text-align:center;line-height:33px;font-size:11px;color:#939393}
+.mmbottom a img{display:block;float:left;width:21px;height:23px;background-size:100% 100%;text-align:center;margin-top:5px}
+.mmbottom .bottomwz{width:70px;height:33px;line-height:33px}
+.mmbottom a:hover.bottomwz{color:#f3a831}
+.mmgl{width:115px;height:33px;line-height:33px;float:right}
+.mmbottom .mmgl a{width:57px;height:13px;float:left;display:block;line-height:13px;margin-top:10px}
+.mmbottom .mmgl a:hover{color:#f3a831}
+.mmglb{border-right:1px solid #a1a1a1}

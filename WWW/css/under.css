@@ -1,0 +1,18 @@
+.footer1 {
+    position: static!important; 
+    bottom: 0px;
+    width: 100%;
+}
+.header_search,.header_cart{
+	padding-top:45px;
+}
+.header_smenu {
+	display: none;
+}
+.header_mainnav2{
+	margin-top: 0;
+}
+.commentList{
+	background:url(../img/kefutopbg.png) repeat 100% ;
+	margin-bottom: 25px;
+}
